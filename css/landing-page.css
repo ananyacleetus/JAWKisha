@@ -35,7 +35,8 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    /*background: url(../img/intro-bg.jpg) no-repeat center center;*/
+    background: url(https://tribkcpq.files.wordpress.com/2014/08/iphone-5.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -43,6 +44,7 @@ h6 {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
+     text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
 }
 
 .intro-message > h1 {
